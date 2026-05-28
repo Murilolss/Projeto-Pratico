@@ -1,5 +1,5 @@
 # Olá 👋, Seja Bem-Vindo(a) ao nosso projeto prático da disciplina de IDPW
-## Introdução ao Desenvolvimento de Paginas Web  
+## Introdução ao Desenvolvimento de Páginas Web  
 ### Um pouco do Projeto  
 
 
